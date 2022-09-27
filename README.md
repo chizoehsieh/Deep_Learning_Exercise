@@ -1,1 +1,4 @@
-# Deep_Learning_Exercise
+# 三種深度學習模型練習
+
+## 作業內容
+使用最基礎的mnist數字資料集，訓練MLP、CNN、RNN三種深度學習模型，辨識手寫數字圖像。
